@@ -1,0 +1,25 @@
+id0 = str(input())
+if id0 == '0':
+    print('rosa rosa verde rosa')
+elif id0 == '1':
+    print('verde rosa verde rosa')
+elif id0 == '2':
+    print('verde verde verde rosa')
+elif id0 == '3':
+    print('rosa verde verde rosa')
+elif id0 == '4': 
+    print('rosa rosa rosa verde')
+elif id0 == '5':
+    print('verde rosa rosa verde')
+elif id0 == '6':
+    print('verde verde rosa verde')
+elif id0 == '7':
+    print('rosa verde rosa verde')
+elif id0 == '8':
+    print('verde verde verde verde')
+elif id0 == '9':
+    print('rosa rosa rosa rosa')
+elif id0 == '10':
+    print('rosa rosa verde verde')
+elif id0 == '11':
+    print('verde verde rosa rosa')
