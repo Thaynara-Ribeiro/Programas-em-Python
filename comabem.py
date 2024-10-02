@@ -5,4 +5,4 @@ resultado = valor + gorjeta
 print('{}'.format(resultado))
 
 
-# programa pára calcular o preço de um jantar com os 10% do garçom
+# programa para calcular o preço de um jantar com os 10% do garçom
