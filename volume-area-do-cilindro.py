@@ -1,3 +1,7 @@
+'''
+Execute um programa que calcule a partir da altura e o valor do raio
+calcule a área de um cilindro.
+'''
 print('{:=^}'.format('Volume é Area do CILINDRO'))
 altura = float(input('Digite a altura do cilindro: '))
 raio = float(input('Digite o raio do cilindro: ')) 
